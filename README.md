@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gary1694441739
+- 👋 Hi, I’m Gary, a college student from China
 - 👀 I’m interested in C++ and Games Area
 - 🌱 I’m currently learning C++ and Linux
 - 💞️ I’m looking to collaborate on ...
